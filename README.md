@@ -6,11 +6,7 @@ Showcases my skills, experience, projects, certifications, and achievements.
 ---
 
 ## 🌐 Live Demo
-(After deployment, paste your live link here)
 
----git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
-git push -u origin main
 
 
 ## 🛠 Tech Stack
