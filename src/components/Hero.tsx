@@ -23,7 +23,7 @@ const Hero = () => {
               {/* Avatar */}
               <Avatar className="relative h-48 w-48 md:h-64 md:w-64 border-4 border-background shadow-2xl">
                 <AvatarImage
-                  src={`${import.meta.env.BASE_URL}ProfilePhoto.png`}
+                  src={`/portfolio/ProfilePhoto.png`}
                   alt="Abhishek Sehrawat"
                 />
 
